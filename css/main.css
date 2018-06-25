@@ -1,0 +1,87 @@
+@font-face{
+    font-family: 'wisdom-script copy';
+    
+    
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+     width: 1200px;
+    margin: 0 auto;
+    
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+	color: black;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+h1{
+    font-size:30px;
+    
+}
+
+h3{
+    font-size: 18px;
+}
+
+h4{
+    font-size: 16px;
+}
+p{
+    font-size: 16px;
+}
+
+header
+{
+    height: 100px;
+    margin: 0 auto;
+}
+header h1{
+    float: left;
+    padding:38px 0;
+}
+
+
+header h1 span{
+    color: #77a466;
+    
+    
+}
+
+header nav ul{
+    float: right;
+    font-weight: 700;
+    padding: 0;
+    padding: 0 10px;
+    
+}
+
+header nav ul li{
+    text-transform: uppercase;
+    display:inline;
+    padding: 0 10px;
+    
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.main-image{
+    height: auto;
+   
+}
+.main-image img {
+    margin:0px;
+    border-bottom:3px solid #77a466;
+}
